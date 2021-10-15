@@ -1,0 +1,5 @@
+name: DuoBending
+main: me.finnbon.duobending.DuoBending
+version: 1.0.0
+depend:
+  - ProjectKorra
